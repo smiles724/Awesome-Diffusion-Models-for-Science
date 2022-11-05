@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Fang](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
-This repository contains a collection of resources and papers on ***Diffusion Models for Science***😆. For a more comprehensive overview of diffusion-baed models, please refer to [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models).
+This repository contains a collection of resources and papers on ***Diffusion Models for Science***😆. For a more comprehensive overview of diffusion-baed models, please refer to [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models). If you have any relevant paper of codes to update the list, please pull a request or report an issue. 
 
 # Contents
 - [Small Molecules](#small-molecules)
@@ -30,7 +30,7 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
 > arXiv 2022. [[Paper](https://arxiv.org/abs/2210.13695)] [[Github](https://github.com/arneschneuing/DiffSBDD)]\
 > 24 Oct 2022
 
-**Equivariant 3D-Conditional Diffusion Models for Molecular Linker Design** \  
+**Equivariant 3D-Conditional Diffusion Models for Molecular Linker Design**   
 > *Ilia Igashov, Hannes Stärk, Clément Vignac, Victor Garcia Satorras, Pascal Frossard, Max Welling, Michael Bronstein, Bruno Correia* \
 > arXiv 2022. [[Paper](https://arxiv.org/abs/2210.05274)] \
 > 11 Oct 2022
