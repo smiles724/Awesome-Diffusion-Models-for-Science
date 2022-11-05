@@ -1,7 +1,7 @@
 # Awesome Diffusion Models for Science
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]([https://github.com/hee9joon/Awesome-Diffusion-Models](https://github.com/smiles724/Awesome-Diffusion-Models-in-Molecules)) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
+[![Made With Fang](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
 This repository contains a collection of resources and papers on ***Diffusion Models for Science***😆. For a more comprehensive overview of diffusion-baed models, please refer to [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models).
 
@@ -22,7 +22,13 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
 
 
 # Papers
-## Small Molecules 
+```diff
+- text in red
++ ## Small Molecules 
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 ### Drug Design
 
 > **Structure-based Drug Design with Equivariant Diffusion Models** \
