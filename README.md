@@ -25,12 +25,12 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
 ## Small Molecules 
 ### Drug Design
 
-**Structure-based Drug Design with Equivariant Diffusion Models** \
+> **Structure-based Drug Design with Equivariant Diffusion Models**   
 > *Arne Schneuing<sup>1</sup>, Yuanqi Du<sup>1</sup>, Charles Harris, Arian Jamasb, Ilia Igashov, Weitao Du, Tom Blundell, Pietro Lió, Carla Gomes, Max Welling, Michael Bronstein, Bruno Correia* \
 > arXiv 2022. [[Paper](https://arxiv.org/abs/2210.13695)] [[Github](https://github.com/arneschneuing/DiffSBDD)]\
 > 24 Oct 2022
 
-> **Equivariant 3D-Conditional Diffusion Models for Molecular Linker Design** \
+> **Equivariant 3D-Conditional Diffusion Models for Molecular Linker Design**   
 > *Ilia Igashov, Hannes Stärk, Clément Vignac, Victor Garcia Satorras, Pascal Frossard, Max Welling, Michael Bronstein, Bruno Correia* \
 > arXiv 2022. [[Paper](https://arxiv.org/abs/2210.05274)] \
 > 11 Oct 2022
@@ -51,9 +51,9 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
 > 2 Sep 2022
 
 **Equivariant Diffusion for Molecule Generation in 3D** \
-*Emiel Hoogeboom<sup>1</sup>, Victor Garcia Satorras<sup>1</sup>, Clément Vignac, Max Welling* \
-ICML 2022. [[Paper](https://arxiv.org/abs/2203.17003)] [[Github](https://github.com/ehoogeboom/e3_diffusion_for_molecules)] \
-31 Mar 2022
+> *Emiel Hoogeboom<sup>1</sup>, Victor Garcia Satorras<sup>1</sup>, Clément Vignac, Max Welling* \
+> ICML 2022. [[Paper](https://arxiv.org/abs/2203.17003)] [[Github](https://github.com/ehoogeboom/e3_diffusion_for_molecules)] \
+> 31 Mar 2022
 
 
 ### Molecule Conformation Prediction
@@ -63,12 +63,12 @@ ICML 2022. [[Paper](https://arxiv.org/abs/2203.17003)] [[Github](https://github.
 > ICLR Workshop 2022. [[Paper](https://arxiv.org/abs/2206.01729)] [[Github](https://github.com/gcorso/torsional-diffusion)] \
 > 1 Jun 2022
 
-**Predicting Molecular Conformation via Dynamic Graph Score Matching** \
+> **Predicting Molecular Conformation via Dynamic Graph Score Matching** \
 > *Shitong Luo, Chence Shi, Minkai Xu, Jian Tang* \
 > NeurIPS 2021. [[Paper](https://proceedings.neurips.cc/paper/2021/hash/a45a1d12ee0fb7f1f872ab91da18f899-Abstract.html)] \
 > 22 May 2021
 
-**GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation** \
+> **GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation** \
 > *Minkai Xu, Lantao Yu, Yang Song, Chence Shi, Stefano Ermon, Jian Tang* \
 > ICLR 2022 oral. [[Paper](https://arxiv.org/abs/2203.02923)] [[Github](https://github.com/MinkaiXu/GeoDiff)] \
 > 6 Mar 2022
