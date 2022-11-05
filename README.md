@@ -22,13 +22,7 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
 
 
 # Papers
-```diff
-- text in red
-+ ## Small Molecules 
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+## Small Molecules 
 ### Drug Design
 
 > **Structure-based Drug Design with Equivariant Diffusion Models** \
@@ -36,20 +30,20 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
 > arXiv 2022. [[Paper](https://arxiv.org/abs/2210.13695)] [[Github](https://github.com/arneschneuing/DiffSBDD)]\
 > 24 Oct 2022
 
-**Equivariant 3D-Conditional Diffusion Models for Molecular Linker Design** \
-*Ilia Igashov, Hannes Stärk, Clément Vignac, Victor Garcia Satorras, Pascal Frossard, Max Welling, Michael Bronstein, Bruno Correia* \
-arXiv 2022. [[Paper](https://arxiv.org/abs/2210.05274)] \
-11 Oct 2022
+> **Equivariant 3D-Conditional Diffusion Models for Molecular Linker Design** \
+> *Ilia Igashov, Hannes Stärk, Clément Vignac, Victor Garcia Satorras, Pascal Frossard, Max Welling, Michael Bronstein, Bruno Correia* \
+> arXiv 2022. [[Paper](https://arxiv.org/abs/2210.05274)] \
+> 11 Oct 2022
 
-**Equivariant Energy-Guided SDE for Inverse Molecular Design** \
-*Fan Bao<sup>1</sup>, Min Zhao<sup>1</sup>, Zhongkai Hao, Peiyao Li, Chongxuan Li, Jun Zhu* \
-arXiv 2022. [[Paper](https://arxiv.org/abs/2209.15408)] \
-30 Sep 2022
+> **Equivariant Energy-Guided SDE for Inverse Molecular Design** \
+> *Fan Bao<sup>1</sup>, Min Zhao<sup>1</sup>, Zhongkai Hao, Peiyao Li, Chongxuan Li, Jun Zhu* \
+> arXiv 2022. [[Paper](https://arxiv.org/abs/2209.15408)] \
+> 30 Sep 2022
 
-**MDM: Molecular Diffusion Model for 3D Molecule Generation** \
-*Lei Huang, Hengtong Zhang, Tingyang Xu, Ka-Chun Wong* \
-arXiv 2022. [[Paper](https://arxiv.org/abs/2209.05710)] \
-13 Sep 2022
+> **MDM: Molecular Diffusion Model for 3D Molecule Generation** \
+> *Lei Huang, Hengtong Zhang, Tingyang Xu, Ka-Chun Wong* \
+> arXiv 2022. [[Paper](https://arxiv.org/abs/2209.05710)] \
+> 13 Sep 2022
 
 **Diffusion-based Molecule Generation with Informative Prior Bridges** \
 *Lemeng Wu<sup>1</sup>, Chengyue Gong<sup>1</sup>, Xingchao Liu, Mao Ye, Qiang Liu* \
