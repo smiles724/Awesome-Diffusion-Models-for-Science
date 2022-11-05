@@ -23,52 +23,52 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
 
 # Papers
 ## Small Molecules 
-### Drug Design
+### *Drug Design*
 
-> **Structure-based Drug Design with Equivariant Diffusion Models**   
+**Structure-based Drug Design with Equivariant Diffusion Models**   
 > *Arne Schneuing<sup>1</sup>, Yuanqi Du<sup>1</sup>, Charles Harris, Arian Jamasb, Ilia Igashov, Weitao Du, Tom Blundell, Pietro Lió, Carla Gomes, Max Welling, Michael Bronstein, Bruno Correia* \
 > arXiv 2022. [[Paper](https://arxiv.org/abs/2210.13695)] [[Github](https://github.com/arneschneuing/DiffSBDD)]\
 > 24 Oct 2022
 
-> **Equivariant 3D-Conditional Diffusion Models for Molecular Linker Design**   
+**Equivariant 3D-Conditional Diffusion Models for Molecular Linker Design**   
 > *Ilia Igashov, Hannes Stärk, Clément Vignac, Victor Garcia Satorras, Pascal Frossard, Max Welling, Michael Bronstein, Bruno Correia* \
 > arXiv 2022. [[Paper](https://arxiv.org/abs/2210.05274)] \
 > 11 Oct 2022
 
-> **Equivariant Energy-Guided SDE for Inverse Molecular Design** \
+**Equivariant Energy-Guided SDE for Inverse Molecular Design** \
 > *Fan Bao<sup>1</sup>, Min Zhao<sup>1</sup>, Zhongkai Hao, Peiyao Li, Chongxuan Li, Jun Zhu* \
 > arXiv 2022. [[Paper](https://arxiv.org/abs/2209.15408)] \
 > 30 Sep 2022
 
-> **MDM: Molecular Diffusion Model for 3D Molecule Generation** \
+**MDM: Molecular Diffusion Model for 3D Molecule Generation**   
 > *Lei Huang, Hengtong Zhang, Tingyang Xu, Ka-Chun Wong* \
 > arXiv 2022. [[Paper](https://arxiv.org/abs/2209.05710)] \
 > 13 Sep 2022
 
-> **Diffusion-based Molecule Generation with Informative Prior Bridges** \
+**Diffusion-based Molecule Generation with Informative Prior Bridges**    
 > *Lemeng Wu<sup>1</sup>, Chengyue Gong<sup>1</sup>, Xingchao Liu, Mao Ye, Qiang Liu* \
 > NeurIPS 2022. [[Paper](https://arxiv.org/abs/2209.00865)] \
 > 2 Sep 2022
 
-**Equivariant Diffusion for Molecule Generation in 3D** \
+**Equivariant Diffusion for Molecule Generation in 3D**   
 > *Emiel Hoogeboom<sup>1</sup>, Victor Garcia Satorras<sup>1</sup>, Clément Vignac, Max Welling* \
 > ICML 2022. [[Paper](https://arxiv.org/abs/2203.17003)] [[Github](https://github.com/ehoogeboom/e3_diffusion_for_molecules)] \
 > 31 Mar 2022
 
 
-### Molecule Conformation Prediction
+### *Molecule Conformation Prediction*
 
-> **Torsional Diffusion for Molecular Conformer Generation** \
+**Torsional Diffusion for Molecular Conformer Generation**    
 > *Bowen Jing, Gabriele Corso, Regina Barzilay, Tommi S. Jaakkola* \
 > ICLR Workshop 2022. [[Paper](https://arxiv.org/abs/2206.01729)] [[Github](https://github.com/gcorso/torsional-diffusion)] \
 > 1 Jun 2022
 
-> **Predicting Molecular Conformation via Dynamic Graph Score Matching** \
+**Predicting Molecular Conformation via Dynamic Graph Score Matching**   
 > *Shitong Luo, Chence Shi, Minkai Xu, Jian Tang* \
 > NeurIPS 2021. [[Paper](https://proceedings.neurips.cc/paper/2021/hash/a45a1d12ee0fb7f1f872ab91da18f899-Abstract.html)] \
 > 22 May 2021
 
-> **GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation** \
+**GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation**  
 > *Minkai Xu, Lantao Yu, Yang Song, Chence Shi, Stefano Ermon, Jian Tang* \
 > ICLR 2022 oral. [[Paper](https://arxiv.org/abs/2203.02923)] [[Github](https://github.com/MinkaiXu/GeoDiff)] \
 > 6 Mar 2022
