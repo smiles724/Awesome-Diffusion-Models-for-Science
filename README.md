@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
-This repository contains a collection of resources and papers on ***Diffusion Models for Science***. For a more comprehensive overview of diffusion-baed models, please refer to [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models).
+This repository contains a collection of resources and papers on ***Diffusion Models for Science***😆. For a more comprehensive overview of diffusion-baed models, please refer to [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models).
 
 # Contents
 - [Small Molecules](#small-molecules)
@@ -26,7 +26,7 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
 ### Drug Design
 
 > **Structure-based Drug Design with Equivariant Diffusion Models** \
-> *Arne Schneuing<sup>1</sup>, Yuanqi Du<sup>1</sup>, Charles Harris, Arian Jamasb, Ilia Igashov, Weitao Du, Tom Blundell, Pietro Lió, Carla Gomes, Max Welling, Michael > Bronstein, Bruno Correia* \
+> *Arne Schneuing<sup>1</sup>, Yuanqi Du<sup>1</sup>, Charles Harris, Arian Jamasb, Ilia Igashov, Weitao Du, Tom Blundell, Pietro Lió, Carla Gomes, Max Welling, Michael Bronstein, Bruno Correia* \
 > arXiv 2022. [[Paper](https://arxiv.org/abs/2210.13695)] [[Github](https://github.com/arneschneuing/DiffSBDD)]\
 > 24 Oct 2022
 
