@@ -127,7 +127,7 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
 
 **Crystal Diffusion Variational Autoencoder for Periodic Material Generation** 
 > *Tian Xie<sup>1</sup>, Xiang Fu<sup>1</sup>, Octavian-Eugen Ganea<sup>1</sup>, Regina Barzilay, Tommi Jaakkola*\
-> NeurIPS 2021. [[Paper](https://arxiv.org/abs/2110.06197)] [[Github](https://github.com/txie-93/cdvae)] \
+> ICLR 2022. [[Paper](https://arxiv.org/abs/2110.06197)] [[Github](https://github.com/txie-93/cdvae)] \
 > 12 Oct 2021
 
 **Data-driven discovery of novel 2D materials by deep generative models** 
