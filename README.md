@@ -92,10 +92,10 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
 
 ### Protein Design
 
-**Protein Sequence and Structure Co-Design with Equivariant Translation** 
+<!-- **Protein Sequence and Structure Co-Design with Equivariant Translation** 
 > *Chence Shi, Chuanrui Wang, Jiarui Lu, Bozitao Zhong, Jian Tang* \
 > arXiv 2022. [[Paper](https://arxiv.org/abs/2210.08761)] \
-> 17 Oct 2022
+> 17 Oct 2022 -->
 
 **Diffusion probabilistic modeling of protein backbones in 3D for the motif-scaffolding problem** 
 > *Brian L. Trippe<sup>1</sup>, Jason Yim<sup>1</sup>, Doug Tischer, Tamara Broderick, David Baker, Regina Barzilay, Tommi Jaakkola* \
