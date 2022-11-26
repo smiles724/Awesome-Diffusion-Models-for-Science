@@ -79,7 +79,7 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
 
 **A Score-based Geometric Model for Molecular Dynamics Simulations** 
 > *Fang Wu<sup>1</sup>, Qiang Zhang<sup>1</sup>, Xurui Jin, Yinghui Jiang, Stan Z. Li* \
-> CoRR 2022. [[Paper](https://arxiv.org/abs/2204.08672)] \
+> AAAI 2023. [[Paper](https://arxiv.org/abs/2204.08672)] \
 > 19 Apr 2022
 
 ## Proteins
