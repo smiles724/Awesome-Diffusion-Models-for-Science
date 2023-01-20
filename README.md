@@ -2,7 +2,9 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]([https://github.com/hee9joon/Awesome-Diffusion-Models](https://github.com/smiles724/Awesome-Diffusion-Models-in-Molecules)) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains a collection of resources and papers on ***Diffusion Models for Science***😆. We are pleased to see that more and more efforts have been devoted to employing diffusion models in tackling essential scientific problems since 2022. For a more comprehensive overview of diffusion-baed models, please refer to [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models). If you have any relevant paper of codes to update the list, please pull a request or report an issue. 
+This repository contains a collection of resources and papers on ***Diffusion Models for Science***😆. We are pleased to see that more and more efforts have been devoted to employing diffusion models in tackling essential scientific problems since 2022. For a more comprehensive overview of diffusion-baed models, please refer to [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models). 
+
+If you have any relevant paper or codes to update the list, please pull a request or report an issue. 
 
 ![image](https://user-images.githubusercontent.com/39299863/200123000-885b05d3-636b-4dc2-886f-86d348ee9eef.png)
 
@@ -77,7 +79,7 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
 
 ### Molecular Dynamics Simulations
 
-**A Score-based Geometric Model for Molecular Dynamics Simulations** 
+**DiffMD: A Diffusion-based Geometric Model for Molecular Dynamics Simulations** 
 > *Fang Wu<sup>1</sup>, Qiang Zhang<sup>1</sup>, Xurui Jin, Yinghui Jiang, Stan Z. Li* \
 > AAAI 2023. [[Paper](https://arxiv.org/abs/2204.08672)] \
 > 19 Apr 2022
