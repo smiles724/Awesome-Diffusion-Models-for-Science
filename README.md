@@ -88,8 +88,8 @@ If you have any relevant paper or codes to update the list, please pull a reques
 ### Protein Structure Prediction
 
 **EigenFold: Generative Protein Structure Prediction with Diffusion Models** 
-> *Bowen Jing, Ezra Erives, Peter Pao-Huang, Gabriele Corso, Bonnie Berger, Tommi Jaakkola* \
-> MLDD Workshop, ICLR 2023 [[Github](https://github.com/bjing2016/EigenFold)] \ 
+> *Bowen Jing, Ezra Erives, Peter Pao-Huang, Gabriele Corso, Bonnie Berger, Tommi Jaakkola*\  
+> MLDD Workshop, ICLR 2023. [[Paper](https://arxiv.org/pdf/2304.02198.pdf)] [[Github](https://github.com/bjing2016/EigenFold)]\   
 > 4 Apr 2023 
 
 **Protein structure generation via folding diffusion** 
