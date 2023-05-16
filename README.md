@@ -99,9 +99,9 @@ If you have any relevant paper or codes to update the list, please pull a reques
 > arXiv 2022. [[Paper](https://arxiv.org/abs/2210.08761)] \
 > 17 Oct 2022 -->
 
-**ProteinSGM: Score-based generative modeling for de novo protein design** 
+**Score-based generative modeling for de novo protein design** 
 > *Lee, Jin Sub, Jisun Kim, and Philip M. Kim* \
-> biorXiv 2022. [[Paper](https://www.biorxiv.org/content/10.1101/2022.07.13.499967v2.abstract)] \
+> Nature Commutational Science 2023. [[Paper](https://www.nature.com/articles/s43588-023-00440-3)] \
 > 4 Feb 2023
 
 
