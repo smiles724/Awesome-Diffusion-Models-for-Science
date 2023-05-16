@@ -87,6 +87,12 @@ If you have any relevant paper or codes to update the list, please pull a reques
 ## Proteins
 ### Protein Structure Prediction
 
+
+**EigenFold: Generative Protein Structure Prediction with Diffusion Models**
+> *Bowen Jing, Ezra Erives, Peter Pao-Huang, Gabriele Corso, Bonnie Berger, Tommi Jaakkola*
+> MLDD Workshop, ICLR 2023 [[Github](https://github.com/bjing2016/EigenFold)]
+> 4 Apr 2023 
+
 **Protein structure generation via folding diffusion** 
 > *Kevin E. Wu, Kevin K. Yang, Rianne van den Berg, James Y. Zou, Alex X. Lu, Ava P. Amini* \
 > arXiv 2022. [[Paper](https://arxiv.org/abs/2209.15611)] [[Github](https://github.com/microsoft/foldingdiff)] \
