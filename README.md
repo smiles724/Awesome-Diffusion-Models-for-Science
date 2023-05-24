@@ -109,6 +109,11 @@ If you have any relevant paper or codes to update the list, please pull a reques
 > Nature Commutational Science 2023. [[Paper](https://www.nature.com/articles/s43588-023-00440-3)] \
 > 4 Feb 2023
 
+**DiffSDS: A language diffusion model for protein backbone inpainting under geometric conditions and constraints**
+> *Zhangyang Gao, Cheng Tan, Stan Z. Li*
+> arXiv 2023. [[Paper](https://arxiv.org/abs/2301.09642)]
+> 22 Jan 2023
+
 
 **Diffusion probabilistic modeling of protein backbones in 3D for the motif-scaffolding problem** 
 > *Brian L. Trippe<sup>1</sup>, Jason Yim<sup>1</sup>, Doug Tischer, Tamara Broderick, David Baker, Regina Barzilay, Tommi Jaakkola* \
